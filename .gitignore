@@ -1,0 +1,18 @@
+node_modules/
+.env
+*.log
+*.lock
+*.jsonl
+script.json
+script_library.json
+nyan_cmd.json
+config.json
+bot_profile.json
+blacklist.json
+whitelist.json
+temp_blacklist.json
+knowledge.json
+downloads/
+
+# 用户配置（config.js 是 gen 的，config.example.js 保留）
+mc-server/lib/config.js
